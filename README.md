@@ -5,9 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sagnikghosh03)
 
-A detail oriented with **problem solving mindset** and a passion for uncovering actionable insights and delivering data-driven solutions.
-
-**_I think no matter how hard the past is, you can always begin again and I believe every day is a chance to begin again. The only goal is to become better than yesterday..._**
+Driven by a passion for data and an unyielding curiosity about its power, I am a certified Google Data Analytics Professional with a strong foundation in data analysis. My goal is to excel as a Data Analyst or Data Scientist, leveraging insights to drive informed decision-making.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -15,13 +13,15 @@ A detail oriented with **problem solving mindset** and a passion for uncovering 
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sagnikghosh333@gmail.com)](mailto:sagnikghosh333@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-green?style=flat&logo=Whatsapp&logoColor=white&link=https://wa.me/+919948848327)](https://wa.me/+919948848327)
 
+**_With a proven track record in translating complex datasets into actionable insights, my expertise lies in:_**
+
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> -->
 <img align="right" width="400" src="https://i.pinimg.com/originals/fb/16/cf/fb16cff8405e00a54f1d718ae0e73485.gif" />
 
-- 🔭 I am a **post-grad professional**, skilled in Data Analysis, Machine Learning, Full Stack, and Android development.
-- 💪 I am extending myself towards **_Data Engineering, Cloud, and DevOps_** to achieve a level of **_Full-Stack Data Science_**.
-- 🌱 I’m currently exploring various domain knowledge.
-- 👯 I’m looking to collaborate on Data Analytics or ML Projects
+- **Data Analysis:** Proficient in Power BI, Advanced Excel, SQL, and Python.
+- **Certifications:** Google Data Analytics Professional, SQL for Data Science, Excel Skills for Data Analytics, and more.
+- **Project Management:** Led successful projects in Telangana Growth Analysis, Tourism Analysis, Supply Chain Optimization, and Connecticut Real Estates.
+- **Communication Skills:** Strong storytelling ability to bridge the gap between technical expertise and practical applications.
 - <h3 align="left">Visit my portfolio: <a target="_blank" href = "https://sagnikghosh03.github.io/Portfolio/"> https://sagnikghosh03.github.io/Portfolio/ </a></h3> 
 
 <!--
