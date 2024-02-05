@@ -18,18 +18,18 @@ Driven by a passion for data and an unyielding curiosity about its power, I am a
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> -->
 <img align="right" width="400" src="https://i.pinimg.com/originals/fb/16/cf/fb16cff8405e00a54f1d718ae0e73485.gif" />
 
-- **Data Analysis:** Proficient in Power BI, Advanced Excel, SQL, and Python.
-- **Certifications:** Google Data Analytics Professional, SQL for Data Science, Excel Skills for Data Analytics, and more.
-- **Project Management:** Led successful projects in Telangana Growth Analysis, Tourism Analysis, Supply Chain Optimization, and Connecticut Real Estates.
+- **Data Analysis:** <br>
+   Proficient in Power BI, Advanced Excel, SQL, and Python.
+- **Certifications:**
+  - **Google:** Data Analytics Professional Certificate Specialization.
+  - **University of California, Davis:** SQL for Data Science.
+  - **Macquarie University:** Excel Skills for Data Analytics.
+  - **Accenture:** Data Analytics and Visualization Job Simulation.
+  - **PwC:** Power BI Job Simulation.
+  - and more.
+- **Projects:** Led successful projects in Telangana Growth Analysis, Tourism Analysis, Supply Chain Optimization, and Connecticut Real Estates.
 - **Communication Skills:** Strong storytelling ability to bridge the gap between technical expertise and practical applications.
 - <h3 align="left">Visit my portfolio: <a target="_blank" href = "https://sagnikghosh03.github.io/Portfolio/"> https://sagnikghosh03.github.io/Portfolio/ </a></h3> 
-
-<!--
-<br>
-<br>
-
-![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=SahilSK202&theme=tokyonight&show_icons=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahilSK202&theme=tokyonight)](https://git.io/streak-stats)
--->
 
 <br>
 <br>
