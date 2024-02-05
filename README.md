@@ -15,7 +15,7 @@ Driven by a passion for data and an unyielding curiosity about its power, I am a
 
 **_With a proven track record in translating complex datasets into actionable insights, my expertise lies in:_**
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/fb/16/cf/fb16cff8405e00a54f1d718ae0e73485.gif" />
+<img align="right" width="400" src="https://github.com/sagnikghosh03/sagnikghosh03/blob/main/New.gif" />
 
 - **Data Analysis:** <br>
    Proficient in Power BI, Advanced Excel, SQL, and Python.
