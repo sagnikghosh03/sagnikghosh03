@@ -15,7 +15,6 @@ Driven by a passion for data and an unyielding curiosity about its power, I am a
 
 **_With a proven track record in translating complex datasets into actionable insights, my expertise lies in:_**
 
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> -->
 <img align="right" width="400" src="https://i.pinimg.com/originals/fb/16/cf/fb16cff8405e00a54f1d718ae0e73485.gif" />
 
 - **Data Analysis:** <br>
@@ -27,7 +26,7 @@ Driven by a passion for data and an unyielding curiosity about its power, I am a
   - **Accenture:** Data Analytics and Visualization Job Simulation.
   - **PwC:** Power BI Job Simulation.
   - and more.
-- **Projects:** Led successful projects in Telangana Growth Analysis, Tourism Analysis, Supply Chain Optimization, and Connecticut Real Estates.
+- **Projects:** Led successful projects in Telangana Growth Analysis, Telangana Tourism Analysis, Supply Chain Optimization in the FMCG domain, and Connecticut Real Estates.
 - **Communication Skills:** Strong storytelling ability to bridge the gap between technical expertise and practical applications.
 - <h3 align="left">Visit my portfolio: <a target="_blank" href = "https://sagnikghosh03.github.io/Portfolio/"> https://sagnikghosh03.github.io/Portfolio/ </a></h3> 
 
