@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sagnikghosh03)
 
-Driven by a passion for data and an unyielding curiosity about its power, I am a certified Google Data Analytics Professional with a strong foundation in data analysis. My goal is to excel as a Data Analyst or Data Scientist, leveraging insights to drive informed decision-making.
+Driven by a passion for data and an unyielding curiosity about its power, I am a certified Google Data Analytics Professional with a strong foundation in data analysis. I aim to excel as a Data Analyst or Data Scientist, leveraging insights to drive informed decision-making.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -26,7 +26,7 @@ Driven by a passion for data and an unyielding curiosity about its power, I am a
   - **Accenture:** Data Analytics and Visualization Job Simulation.
   - **PwC:** Power BI Job Simulation.
   - and more.
-- **Projects:** Led successful projects in Telangana Growth Analysis, Telangana Tourism Analysis, Supply Chain Optimization in the FMCG domain, and Connecticut Real Estates.
+- **Projects:** Led successful projects in Telangana Growth Analysis, Telangana Tourism Analysis, Supply Chain Optimization in the FMCG domain, Connecticut Real Estates, and more.
 - **Communication Skills:** Strong storytelling ability to bridge the gap between technical expertise and practical applications.
 - <h3 align="left">Visit my portfolio: <a target="_blank" href = "https://sagnikghosh03.github.io/Portfolio/"> https://sagnikghosh03.github.io/Portfolio/ </a></h3> 
 
