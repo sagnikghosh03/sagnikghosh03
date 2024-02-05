@@ -1,4 +1,4 @@
-<img src = "https://media.licdn.com/dms/image/D5616AQE99zR9xTb58A/profile-displaybackgroundimage-shrink_350_1400/0/1688790703859?e=1712188800&v=beta&t=g3EBldO-wp8r-mIBBuNr59q1HB3LdpokM4L_UfyPkR0" width = 100%><img>
+<img src = "https://github.com/sagnikghosh03/sagnikghosh03/blob/main/Banner.png" width = 100%><img>
 
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Sagnik Ghosh</h1>
 <h2 align="center">Data Analyst | Excel | SQL | Power BI | Python | Problem Solver</h2>
